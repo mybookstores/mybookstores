@@ -36,7 +36,6 @@
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
 
 ### 💾 all
-<div align="center" >
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
@@ -68,9 +67,8 @@
 ![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat)
 ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
-
+<div align="center" >
 <img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git" /><br>
-
 <!-- svg -->
 <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
@@ -122,11 +120,11 @@
 ---
 
 
+<img width="120%" src="https://repobeats.axiom.co/api/embed/709a3d971d244624a2cf1a0855bb7a4bddb5e422.svg" />
+
+
+
 <p align="center">
 🔥 Build your own GitHub universe 🔥
 </p>
 
-
-<img width="120%" src="https://repobeats.axiom.co/api/embed/709a3d971d244624a2cf1a0855bb7a4bddb5e422.svg" />
-
-<img src="https://cdn.jsdelivr.net/gh/mybookstores/mybookstores/assets/images/icon.png" />
