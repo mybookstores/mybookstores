@@ -21,31 +21,21 @@
 ## 🛠️ Tech Stack
 
 ### 💡 Languages
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=coffeescript)
-![Go](https://img.shields.io/badge/Go-000?style=for-the-badge&logo=go)
-![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/just%20the%20message-8A2BE2)
+![Go](https://img.shields.io/badge/Go-000?style=for-the-badge&logo=gp)
+![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=c++)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
 
 ### ⚙️ Frameworks & Tools
-![Vue](https://img.shields.io/badge/Vue-000?style=for-the-badge&logo=vuedotjs)
+![Spring](https://img.shields.io/badge/Spring-000?style=for-the-badge&logo=spring)
 ![Springboot](https://img.shields.io/badge/Springboot-000?style=for-the-badge&logo=springboot)
+![Vue](https://img.shields.io/badge/Vue-000?style=for-the-badge&logo=vue)
 ![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mybookstores&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mybookstores&layout=compact&theme=tokyonight" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mybookstores&theme=tokyonight" />
-</p>
 
 ---
 
@@ -55,27 +45,22 @@
   <img src="https://github.com/mybookstores/mybookstores/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
----
 
-## 🌌 Projects & Interests
-
-- 🤖 AI / LLM / Agent
-- ⚙️ 自动化 & 工程效率
-- 🧩 架构设计 & 性能优化
-- 🛠️ Side Projects & Experiments
 
 ---
 
 ## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/mybookstores">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
-  </a>
-  <a href="mailto:your_email@example.com">
-    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail">
-  </a>
-</p>
+在这种
+<div>
+  <img src="https://img.shields.io/badge/微信-abc13624050204-07c160" />&emsp;
+  <img src="https://img.shields.io/badge/QQ-2057459142-2099de" />&emsp;
+  <img src="https://img.shields.io/badge/邮箱-15604018879@163.com-#e20614" />&emsp;
+  <a href="https://space.bilibili.com/180164791"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+  <!-- visitor -->
+  <img src="https://komarev.com/ghpvc/?username=mybookstores&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
+  <!-- wakatime -->
+  <a href="https://wakatime.com/@mybookstores"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>
+</div>
 
 ---
 
