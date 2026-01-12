@@ -21,15 +21,15 @@
 ## 🛠️ Tech Stack
 
 ### 💡 Languages
-![Java](https://img.shields.io/badge/just%20the%20message-8A2BE2)
-![Go](https://img.shields.io/badge/Go-000?style=for-the-badge&logo=gp)
-![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=c++)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=coffeescript)
+![Go](https://img.shields.io/badge/Go-000?style=for-the-badge&logo=go)
+![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
 
 ### ⚙️ Frameworks & Tools
-![Vue](https://img.shields.io/badge/Vue-000?style=for-the-badge&logo=vue)
+![Vue](https://img.shields.io/badge/Vue-000?style=for-the-badge&logo=vuedotjs)
 ![Springboot](https://img.shields.io/badge/Springboot-000?style=for-the-badge&logo=springboot)
 ![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
