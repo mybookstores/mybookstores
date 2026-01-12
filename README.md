@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Joseph 🚀
+# 👋 Hi, I'm Sara 🚀
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;Tech+Explorer;Always+Learning" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Hellp+World;Tech+Explorer;Always+Learning" />
 </p>
 
 ---
@@ -13,22 +13,24 @@
 ## 🧠 About Me
 
 - 💻 热爱 **编程 / 开源 / 黑科技**
-- 🚀 专注 **Web / AI / 自动化 / 系统设计**
-- 🌱 正在学习：**AI Engineering**
-- ⚡ Motto：*Code is poetry.*
+- 🚀 专注 **高并发 / 数据库 / 自动化 / 系统设计**
+- 🌱 正在学习：**AI Agent**
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💡 Languages
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+![Go](https://img.shields.io/badge/Go-000?style=for-the-badge&logo=gp)
+![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=c++)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
 
 ### ⚙️ Frameworks & Tools
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![Vue](https://img.shields.io/badge/Vue-000?style=for-the-badge&logo=vue)
+![Springboot](https://img.shields.io/badge/Springboot-000?style=for-the-badge&logo=springboot)
 ![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
 
