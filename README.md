@@ -127,6 +127,6 @@
 </p>
 
 
-<img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" />
+<img width="120%" src="https://repobeats.axiom.co/api/embed/709a3d971d244624a2cf1a0855bb7a4bddb5e422.svg" />
 
 <img src="https://cdn.jsdelivr.net/gh/mybookstores/mybookstores/assets/images/icon.png" />
