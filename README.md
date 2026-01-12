@@ -12,8 +12,8 @@
 
 <div>
   <img src="https://img.shields.io/badge/微信-abc13624050204-07c160" />&emsp;
-  <img src="https://img.shields.io/badge/QQ-2057459142-1778fe" />&emsp;
-  <img src="https://img.shields.io/badge/邮箱-15604018879@163.com-1778fe" />&emsp;
+  <img src="https://img.shields.io/badge/QQ-2057459142-2099de" />&emsp;
+  <img src="https://img.shields.io/badge/邮箱-15604018879@163.com-#e20614" />&emsp;
   <a href="https://space.bilibili.com/180164791"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
   <!-- visitor -->
   <img src="https://komarev.com/ghpvc/?username=mybookstores&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
@@ -22,9 +22,9 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/mybookstores/mybookstores/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/mybookstores/mybookstores/profile-snake-contrib/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/mybookstores/mybookstores/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HuiDBK/HuiDBK/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HuiDBK/HuiDBK/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/HuiDBK/HuiDBK/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
