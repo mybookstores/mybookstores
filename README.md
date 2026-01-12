@@ -126,7 +126,7 @@
 </div>
 
 ---
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mybookstores&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mybookstores&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img width="120%" src="https://repobeats.axiom.co/api/embed/709a3d971d244624a2cf1a0855bb7a4bddb5e422.svg" />
 
