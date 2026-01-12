@@ -21,7 +21,7 @@
 ## 🛠️ Tech Stack
 
 ### 💡 Languages
-![Java](https://img.shields.io/badge/just%20the%20message-8A2BE2)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=coffeescript)
 ![Go](https://img.shields.io/badge/Go-000?style=for-the-badge&logo=gp)
 ![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=c++)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
@@ -50,7 +50,6 @@
 ---
 
 ## 📫 Connect With Me
-在这种
 <div>
   <img src="https://img.shields.io/badge/微信-abc13624050204-07c160" />&emsp;
   <img src="https://img.shields.io/badge/QQ-2057459142-2099de" />&emsp;
@@ -64,9 +63,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mybookstores&color=blueviolet&style=flat-square" />
-</p>
 
 <p align="center">
 🔥 Build your own GitHub universe 🔥
