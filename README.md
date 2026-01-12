@@ -118,7 +118,7 @@
   <img src="https://img.shields.io/badge/微信-abc13624050204-07c160" />&emsp;
   <img src="https://img.shields.io/badge/QQ-2057459142-2099de" />&emsp;
   <img src="https://img.shields.io/badge/邮箱-15604018879@163.com-#e20614" />&emsp;
-  <a href="https://space.bilibili.com/180164791"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+  <a href="https://space.bilibili.com/180164791/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
   <!-- visitor -->
   <img src="https://komarev.com/ghpvc/?username=mybookstores&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
   <!-- wakatime -->
@@ -126,7 +126,7 @@
 </div>
 
 ---
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mybookstores&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img width="120%" src="https://repobeats.axiom.co/api/embed/709a3d971d244624a2cf1a0855bb7a4bddb5e422.svg" />
 
