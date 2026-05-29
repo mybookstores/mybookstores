@@ -5,110 +5,134 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Explorer;System+Designer;Always+Learning" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Hellp+World;Tech+Explorer;Always+Learning" />
 </p>
 
 ---
 
 ## 🌸 About Me
 
-> 南京航空航天大学 · 软件工程专业学生 | 热爱技术，喜欢折腾
-
-- 💻 热爱 **编程 / 开源 / 技术创新**
-- 🚀 专注 **高并发系统 / 数据库优化 / AI 应用**
-- 🌱 正在学习：**AI Agent** + **大模型应用开发**
-- 🎯 目标：打造有价值的技术产品
+- 💻 热爱 **编程 / 开源 / 黑科技**
+- 🚀 专注 **高并发 / 数据库 / 自动化 / 系统设计**
+- 🌱 正在学习：**AI Agent**
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img height="140px" src="https://github-readme-stats.vercel.app/api?username=mybookstores&count_private=true&show_icons=true&theme=tokyo_night" />
-  <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mybookstores&layout=compact&theme=tokyo_night" />
-</p>
+### 💡 Languages
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=coffeescript)
+![Go](https://img.shields.io/badge/Go-000?style=for-the-badge&logo=go)
+![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mybookstores&theme=tokyo_night" />
-</p>
+### ⚙️ Frameworks & Tools
+![Spring](https://img.shields.io/badge/Spring-000?style=for-the-badge&logo=spring)
+![Springboot](https://img.shields.io/badge/Springboot-000?style=for-the-badge&logo=springboot)
+![Vue](https://img.shields.io/badge/Vue-000?style=for-the-badge&logo=vuedotjs)
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
 
----
+### 💾 all
+<div align="center" >
 
-## 🧑‍💻 技术栈
+  
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
+![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
+![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
+![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
+![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat)
+![Qt Badge](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&style=flat)
+![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
+![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat)
 
-### 后端开发
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus)
+![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
+![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
+![C Sharp Badge](https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=flat)
+![R Badge](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=flat)
+![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat)
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
+![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
+![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=flat)
+![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
+![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
+![Three.js Badge](https://img.shields.io/badge/Three.js-092E20?logo=threedotjs&logoColor=fff&style=flat)
 
-### 前端开发
-![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript)
+![Xiaomi Badge](https://img.shields.io/badge/Xiaomi-FF6900?logo=xiaomi&logoColor=fff&style=flat)
+![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
+![Lenovo Badge](https://img.shields.io/badge/Lenovo-E2231A?logo=lenovo&logoColor=fff&style=flat)
+![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
+![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
+![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat)
+![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
+![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
-### 框架与工具
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux)
+<img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git" /><br>
+<!-- svg -->
+<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+<img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /> 
+<img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
+<img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
 
----
-
-## 🚀 精选项目
-
-| 项目 | 描述 | 技术栈 |
-|------|------|--------|
-| [CausalExoFormer](https://github.com/mybookstores/CausalExoFormer) | 时间序列预测模型（因果发现+Transformer） | Python / PyTorch |
-| [OfferForge](https://github.com/mybookstores/OfferForge) | 分布式面试刷题平台 | Java / Spring Boot |
-| [PicHub](https://github.com/mybookstores/PicHub) | 在线云图库协同平台 | Java / Spring Boot |
-| [Docpilot](https://github.com/mybookstores/Docpilot) | 智能多人实时协作文档（软件杯参赛作品） | Vue / WebSocket |
-
-<a href="https://github.com/mybookstores/CausalExoFormer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mybookstores&repo=CausalExoFormer&theme=tokyo_night" />
-</a>
-<a href="https://github.com/mybookstores/OfferForge">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mybookstores&repo=OfferForge&theme=tokyo_night" />
-</a>
-
----
-
-## 🏆 成就
-
-- 🎯 完成 **11** 个开源项目
-- 🔥 持续学习中，探索 AI 应用边界
-- 💪 从课设项目到完整产品，不断成长
-
----
-
-## 📫 Connect With Me
-
-<div>
-  <img src="https://img.shields.io/badge/微信-abc13624050204-07c160" />&emsp;
-  <img src="https://img.shields.io/badge/QQ-2057459142-2099de" />&emsp;
-  <img src="https://img.shields.io/badge/邮箱-15604018879@nuaa.edu.cn-e20614" />&emsp;
-  <a href="https://space.bilibili.com/180164791/">
-    <img src="https://img.shields.io/badge/Bilibili-B站-ff69b4?style=flat-square&logo=bilibili" />
-  </a>&emsp;
-  <img src="https://komarev.com/ghpvc/?username=mybookstores&label=Views&color=orange&style=flat" />&emsp;
-  <a href="https://wakatime.com/@mybookstores">
-    <img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" />
-  </a>
+<!-- gif -->
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/html.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cssgif.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vscode.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/react.webp">
+<img height="95" width="95" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vue.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/python.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
 </div>
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mybookstores&theme=tokyo_night" />
-</p>
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/mybookstores/mybookstores/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/mybookstores/mybookstores/output/github-contribution-grid-snake.svg">
+  <img alt="🐍 Snake eating contributions"
+    src="https://raw.githubusercontent.com/mybookstores/mybookstores/output/github-contribution-grid-snake.svg">
+</picture>
+
+
 
 ---
 
+## 📫 Connect With Me
+<div>
+  <img src="https://img.shields.io/badge/微信-abc13624050204-07c160" />&emsp;
+  <img src="https://img.shields.io/badge/QQ-2057459142-2099de" />&emsp;
+  <!-- <img src="https://img.shields.io/badge/邮箱-15604018879@163.com-#e20614" />&emsp; -->
+  <a href="https://space.bilibili.com/180164791/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+  <!-- visitor -->
+  <img src="https://komarev.com/ghpvc/?username=mybookstores&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
+  <!-- wakatime -->
+  <a href="https://wakatime.com/@mybookstores"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>
+</div>
+
+---
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mybookstores&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <img width="120%" src="https://repobeats.axiom.co/api/embed/709a3d971d244624a2cf1a0855bb7a4bddb5e422.svg" />
 
+
+
 <p align="center">
-✨ 感谢访问，欢迎 Star ✨
+🔥 Build your own GitHub universe 🔥
 </p>
+
